@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     - title: "What is Centaur AI?"
       section: what
     - title: "How is Centaur AI?"
-      section: what
+      section: how
     - title: "Services"
       section: services
     - title: "Portfolio"

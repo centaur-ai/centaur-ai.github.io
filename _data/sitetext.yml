@@ -57,7 +57,7 @@ en: &DEFAULT_EN
 
 
 
-  what:
+  how:
     title: "How is Centaur?"
     #text: "try try"
     section: what
