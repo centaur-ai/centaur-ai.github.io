@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Centaur AI
+    text: Future of AI
+    #button: Tell Me More
+    #buttonlink: "#services"
 
   why:
     title: "Why Centaur AI?"
