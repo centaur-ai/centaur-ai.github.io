@@ -35,7 +35,7 @@ en: &DEFAULT_EN
     title: "Why Centaur AI?"
     text: "try try"
     body: "The Centaur AI Institute was established to achieve safe AI, with the hypothesis that an emerging set of **neuro-symbolic** ideas which incorporate both learning and knowledge/reasoning can provide the path.  An upshot of these ideas is that new human-AI systems ("centaur AI" or human-in-the-loop systems) can be built where humans provide and interact with symbolic knowledge and are essential to AI rather than dispensible.  The questions are both important enough and difficult enough to necessitate the formation of a new entity primarily motivated by the public good rather than profits, and insulated from the short-term motivations, timelines, and instabilities of even the largest industrial labs.  As almost all other non-profit organizations addressing safe AI appear to be policy-focused rather than technically oriented, and almost all organizations addressing safe AI technically appear to be for-profit and focused on current mainstream technologies, we seek to fill the void rather than pursue either of those avenues."
-    section: why
+    section: about
 
   portfolio:
     title: "Portfolio"
