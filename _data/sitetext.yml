@@ -39,7 +39,14 @@ en: &DEFAULT_EN
 
 
   about:
-    title: "Why us?"
+    title: "Why us 1?"
+    text: "our story"
+    body: "Because blah bhal bhal Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: about
+
+
+  about:
+    title: "Why us 2?"
     text: "our story"
     body: "Because blah bhal bhal Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
