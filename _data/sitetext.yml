@@ -16,6 +16,47 @@ en: &DEFAULT_EN
     #button: Tell Me More
     #buttonlink: "#services"
 
+  why:
+    title: "Why Centaur AI?"
+    #text: "try try"
+    body: "The Centaur AI Institute was established to achieve safe AI, with the hypothesis that an emerging set of **neuro-symbolic** ideas which incorporate both learning and knowledge/reasoning can provide the path.  An upshot of these ideas is that new human-AI systems (**centaur AI** or human-in-the-loop systems) can be built where humans provide and interact with symbolic knowledge and are essential to AI rather than dispensible.  The questions are both important enough and difficult enough to necessitate the formation of a new entity primarily motivated by the public good rather than profits, and insulated from the short-term motivations, timelines, and instabilities of even the largest industrial labs.  As almost all other non-profit organizations addressing safe AI appear to be policy-focused rather than technically oriented, and almost all organizations addressing safe AI technically appear to be for-profit and focused on current mainstream technologies, we seek to fill the void rather than pursue either of those avenues."
+    section: why
+
+  what:
+    title: "What is Centaur AI?"
+    #text: "try try"
+    section: what
+    body: |
+      The Institute is a 501(c)(3) whose main focus is on illuminating the technical path to safe AI through fundamental research and advancing its adoption through education throughout the AI ecosystem.  Specific activities include:
+      1. Research.
+        a. Attacking open problems, toward safer and smarter AI.
+        Centaur AI conducts research projects ultimately aimed at what it regards as the most pressing open problems of AI, with a particular emphasis on developing a family of techniques which can, among other things, achieve:
+        - Human Auditability and Controllability (HAC):  By virtue of a human readable representation, the ability for humans to debug, improve, and control models by providing domain and world knowledge and ethical or other behavioral constraints
+        - Learning With Less (LWL):  By incorporating high-level knowledge as well as raw data, the ability to learn with (much) less raw data, power, and cost
+        - Out-Of-Distribution (OOD) generalization:  By incorporating rigorous reasoning, the ability to extrapolate to new situations (very) far from what was seen in training data
+        These properties can all be consider key aspects of safe AI, as well as of AI that can generally perform better.  Examples of current practical open problems that can be addressed by this work:
+        - Non-factuality in current generative AI systems
+        - Implicit bias in training sets which are too large to be fully vettable
+        - Massive costs creating an effective oligopoly in AI systems
+
+        b. Research events, toward connecting the community.
+        Centaur AI organizes research events such as workshops for the exchange of research ideas and the building and strengthening of a community around neuro-symbolic AI/safe AI research.
+
+        c. Open-source software, toward accelerating the community.
+        Centaur AI creates and contributes to open source implementations of neuro-symbolic/safe AI research ideas, to help accelerate research, and ultimately put working technology in the hands of practicing data scientists.
+
+        2. Education.
+        a. Educational events and materials.
+        One of the main obstacles to the development of neuro-symbolic ideas is the inherent difficulty in spanning two very large and very different intellectual traditions - that of statistical AI or machine learning (ML), and that of symbolic AI or knowledge representation and reasoning (KRR).  We hope to help onboard new researchers into this pursuit by providing educational entry points for researchers from both sides, via events with short courses and panels.  We will also develop educational materials including presentations, courses, and books.
+
+        b. Guiding students.
+        To help students interested in this emerging area (and indirectly their advisors), we can provide guidance on open problems to tackle and the history of approaches in the literature, as well as bring students into existing collaborations or start new research projects and otherwise make professional connections.
+
+        c. Advising organizations.
+        To accelerate the development of the neuro-symbolic AI ecosystem, we advise organizations of all kinds on how to utilize neuro-symbolic AI technologies, including non-profits, government agencies, startups, venture capital and private equity firms, and large enterprises.  Similar to a university, we anticipate in the future helping to incubate startups based on neuro-symbolic technology.
+
+
+
   services:
     title: "Services"
     text: "Lorem ipsum"
@@ -31,11 +72,6 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  why:
-    title: "Why Centaur AI?"
-    text: "try try"
-    body: "The Centaur AI Institute was established to achieve safe AI"
-    section: why
 
 
   about:
