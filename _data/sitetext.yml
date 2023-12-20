@@ -55,37 +55,50 @@ en: &DEFAULT_EN
         c. Advising organizations.
         To accelerate the development of the neuro-symbolic AI ecosystem, we advise organizations of all kinds on how to utilize neuro-symbolic AI technologies, including non-profits, government agencies, startups, venture capital and private equity firms, and large enterprises.  Similar to a university, we anticipate in the future helping to incubate startups based on neuro-symbolic technology.
 
-
+  who:
+    title: "Who is Centaur?"
+    #text: "try try"
+    section: who
+    body: |
+      Centaur AI has its own full-time staff, many close collaborators in academia and elsewhere who can be funded by Centaur, and many collaborators with jobs at commercial entities who work on a volunteer basis.
 
   how:
     title: "How is Centaur?"
     #text: "try try"
-    section: what
+    section: how
     body: |
-      this is how
+      The Centaur AI Institute funds itself primarily through government research grants/contracts (e.g. DARPA, NSF, etc) and charitable donations by individuals, foundations or other organizations interested in helping to advance safe/neuro-symbolic AI.  Like many non-profit organizations, the Institute has an affiliated for-profit entity (Centaur AI Corporation) for the subset of its activities which further its mission but may also further the commercial interest of a third party - for example, advising companies on the use of neuro-symbolic technologies to help their business.
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+  where:
+    title: "Where is Centaur?"
+    #text: "try try"
+    section: where
+    body: |
+      Centaur AI plans to open a physical office in the New York City area in 2024, but otherwise proceeds as a virtual organization with collaboration internationally.  Centaur's events are generally held virtually, with the exception of those that may be held as part of existing conferences such as workshops at AAAI.
 
 
+#  services:
+#    title: "Services"
+#    text: "Lorem ipsum"
+#    section: services
+#    list:
+#      - title: "E-Commerce"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+#      - title: "Responsive Design"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        icon: fas fa-laptop
+#      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+#        desc: "Your description here, full **Markdown** support"
+#        icon: fab fa-markdown
 
-  about:
-    title: "Why us 1?"
-    text: "our story"
-    body: "Because blah bhal bhal Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+
+
+#  about:
+#    title: "Why us 1?"
+#    text: "our story"
+#    body: "Because blah bhal bhal Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+#    section: about
 
 
 #  about:
@@ -151,71 +164,71 @@ en: &DEFAULT_EN
 #        url: https://github.com/raviriley/agency-jekyll-theme
 #        logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+#  team:
+#    title: "OUR AMAZING TEAM"
+#    text: "Lorem ipsum dolor sit amet consectetur."
+#    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+#    section: team
+#    people:
+#      - name: "Kay Garland"
+#        role: "Lead Designer"
+#        image: assets/img/team/500x500.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
+#      - name: "Larry Parker"
+#        role: "Lead Marketer"
+#        image: assets/img/team/2.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
+#      - name: "Diana Perterson"
+#        role: "Lead Developer"
+#        image: assets/img/team/500x500.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
 
-  contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+#  contact:
+#    title: "Contact Us"
+#    text: "Lorem ipsum or call 123456789"
+#    section: contact
+#    name: "Name*"
+#    name-validation: "Please enter your name."
+#    email: "Email*"
+#    email-validation: "Please enter your email address."
+#    phone: "Phone Number"
+#    phone-validation: "Please enter your phone number."
+#    message: "Message*"
+#    message-validation: "Please enter a message."
+#    subject: "Contact Form Submission"
+#    submit: "Send Message"
 
-  footer:
-    legal: "Privacy Policy"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+#  footer:
+#    legal: "Privacy Policy"
+#    social:
+#      - url: https://twitter.com
+#        icon: "fab fa-twitter"
+#      - url: https://facebook.com
+#        icon: "fab fa-facebook-f"
+#      - url: https://linkedin.com
+#        icon: "fab fa-linkedin-in"
+#      - url: https://github.com/raviriley/agency-jekyll-theme
+#        icon: "fab fa-github"
+#      - url: https://instagram.com
+#        icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

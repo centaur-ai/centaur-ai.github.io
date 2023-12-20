@@ -15,22 +15,26 @@ en: &DEFAULT_EN
       section: why
     - title: "What is Centaur AI?"
       section: what
+    - title: "Who is Centaur AI?"
+      section: who
     - title: "How is Centaur AI?"
       section: how
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
+    - title: "Where is Centaur AI?"
+      section: where
+#    - title: "Services"
+#      section: services
+#    - title: "Portfolio"
+#      section: portfolio
 #    - title: "About"
 #      section: about
 #    - title: "Timeline"
 #      section: timeline
-    - title: "Team"
-      section: team
-    - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+#    - title: "Team"
+#      section: team
+#    - title: "Contact"
+#      section: contact
+#    - title: "Theme Source"
+#      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
