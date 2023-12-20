@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Why is Centaur AI?"
+    - title: "Why"
       section: why
-    - title: "What is Centaur AI?"
+    - title: "What"
       section: what
-    - title: "Who is Centaur AI?"
+    - title: "Who"
       section: who
-    - title: "How is Centaur AI?"
+    - title: "How"
       section: how
-    - title: "Where is Centaur AI?"
+    - title: "Where"
       section: where
 #    - title: "Services"
 #      section: services
