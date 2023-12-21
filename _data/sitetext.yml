@@ -29,7 +29,7 @@ en: &DEFAULT_EN
     body: |
       The Institute is a 501(c)(3) whose main focus is on illuminating the technical path to safe AI through fundamental research and advancing its adoption through education throughout the AI ecosystem.  Specific activities include:
       
-      **Research**
+      **1. Research**
         
         a. Attacking open problems, toward safer and smarter AI.
         Centaur AI conducts research projects ultimately aimed at what it regards as the most pressing open problems of AI, with a particular emphasis on developing a family of techniques which can, among other things, achieve:
@@ -48,7 +48,7 @@ en: &DEFAULT_EN
         c. Open-source software, toward accelerating the community.
         Centaur AI creates and contributes to open source implementations of neuro-symbolic/safe AI research ideas, to help accelerate research, and ultimately put working technology in the hands of practicing data scientists.
 
-      **Education**
+      **2. Education**
 
         a. Educational events and materials.
         One of the main obstacles to the development of neuro-symbolic ideas is the inherent difficulty in spanning two very large and very different intellectual traditions - that of statistical AI or machine learning (ML), and that of symbolic AI or knowledge representation and reasoning (KRR).  We hope to help onboard new researchers into this pursuit by providing educational entry points for researchers from both sides, via events with short courses and panels.  We will also develop educational materials including presentations, courses, and books.
