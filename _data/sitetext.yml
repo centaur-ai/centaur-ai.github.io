@@ -91,21 +91,21 @@ en: &DEFAULT_EN
 
   who:
     title: "Who is Centaur AI?"
-    #text: "try try"
+    #text: "who"
     section: who
     body: |
       Centaur AI has its own staff, a large network of close collaborators in academia (including Stanford, Carnegie Mellon University, Harvard, Yale, Purdue, Univ Sao Paulo, etc) and elsewhere who can be funded by Centaur, and many collaborators with jobs at commercial entities who work on a volunteer basis.
 
   where:
     title: "Where is Centaur AI?"
-    #text: "try try"
+    #text: "where"
     section: where
     body: |
       Centaur AI is headquartered in California but operates via remote collaboration internationally.  Centaur's events are generally held virtually, with the exception of those that may be held as part of existing conferences such as workshops at AAAI and NeSy.
 
   how:
     title: "How can one participate or interact with Centaur AI?"
-    #text: "try try"
+    #text: "how"
     section: how
     body: |
     - Research:  New collaborators (researchers in academia or industry or government, graudate and undergraduate students, data scientists, engineers) are always welcome!  In the upcoming NSSS 2024 event, we will have an interactive session to discuss new projects.
