@@ -100,7 +100,8 @@ en: &DEFAULT_EN
     title: "Where is Centaur AI?"
     #text: "where"
     section: where
-    body: "ccc"
+    body: |
+      Centaur AI is headquartered in California but operates via remote collaboration internationally.  Centaur's events are generally held virtually, with the exception of those that may be held as part of existing conferences such as workshops at AAAI and NeSy.
 
   how:
     title: "How can one participate or interact with Centaur AI?"
