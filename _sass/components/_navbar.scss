@@ -12,6 +12,7 @@
     @include heading-font;
   }
   .navbar-brand {
+    font-family: Arial, sans-serif; // Change the font to Arial
     color: $primary;
     @include script-font;
     &.active,
@@ -48,6 +49,7 @@
     border: none;
     background-color: transparent;
     .navbar-brand {
+      font-family: Arial, sans-serif; // Change the font to Arial Asim
       font-size: 1.75em;
       -webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
