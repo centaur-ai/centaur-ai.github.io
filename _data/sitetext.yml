@@ -23,95 +23,28 @@ en: &DEFAULT_EN
     section: why
 
   what:
-    title: "What is Centaur AI?"
+    title: "What is Centaur AIB?"
     #text: "what"
     section: what
-    body: |
-      The Institute is a 501(c)(3) whose main focus is on illuminating the technical path to safe AI through fundamental research and advancing its adoption through education throughout the AI ecosystem.  Specific activities include:
-      
-      **1. Research**
-        
-        A. Attacking open problems, toward safer and smarter AI.
-        Centaur AI conducts research projects ultimately aimed at what it regards as the most pressing open problems of AI, with a particular emphasis on developing a family of techniques which can, among other things, achieve:
-        
-        - Human Auditability and Controllability (HAC):  By virtue of a human readable representation, the ability for humans to debug, improve, and control models by providing domain and world knowledge and ethical or other behavioral constraints
-        - Learning With Less (LWL):  By incorporating high-level knowledge as well as raw data, the ability to learn with (much) less raw data, power, and cost
-        - Out-Of-Distribution (OOD) generalization:  By incorporating rigorous reasoning, the ability to extrapolate to new situations (very) far from what was seen in training data
-        
-        These properties can all be consider key aspects of safe AI, as well as of AI that can generally perform better.  Examples of current practical open problems that can be addressed by this work:
-        - Non-factuality in current generative AI systems
-        - Implicit bias in training sets which are too large to be fully vettable
-        - Massive costs creating an effective oligopoly in AI systems
+    body: "aaa"
 
-        Centaur AI research threads consider both long-term conceptual foundations needed to enable such systems as well as development of cutting-edge new systems for standard AI tasks such as classification (e.g. as is common in data science), sequence-to-sequence transduction (e.g. as is done by LLMs), and sequential decision making (e.g. as is done by robots).  Current questions being investigated include:
-
-        1. Could neural network-like models understand?  (as opposed to mimic sequences of text)
-        - Could such models reason?  (reliably, deductively as well as probabilistically)
-          - e.g. we showed recently how to analyze a broad class of reasoning systems, including forms underlying neural networks, in [Fagin et al., Proceedings of the National Academy of Sciences, 2024](https://www.pnas.org/doi/10.1073/pnas.2309905121).
-        - Could such models represent abstract knowledge?  (e.g. grammars/programs, or a world model)
-          - e.g. we showed recently how to measure the compositionality (a key property for representing general knowledge) of any model, including neural networks, in [Ram et al., International Joint Conference on Artificial Intelligence, 2024](https://arxiv.org/abs/2405.02350).
-
-        2. Could neural network-like models ever be general?  (in the sense of AGI or Artificial General Intelligence)
-        - Could such models generalize far from training data?  (i.e. not just mimic solutions they have already seen)
-          - e.g. we showed how a sequence-to-sequence approach that can utilize knowledge can generalize out-of-sample dramatically better, in [Klinger et al., arxiv 2023](https://arxiv.org/abs/2309.16467).
-        - Could such models infer causes?  (especially in ways that go beyond the limitations of current causal models)
-          - e.g. we began exploring how certain probabilistic semantics can allow modeling of causality in more realistic partially identified and cyclic cases, in [Cozman et al., International Journal of Approximate Reasoning, 2024](https://www.sciencedirect.com/science/article/abs/pii/S0888613X24001245).
-
-        3. Could neural network-like models be much more efficient?
-        - Could learning fundamentally be done with orders of magnitude less data?  
-          - e.g. we have developed the first quantitative information theory incorporating logical semantics, showing dramatically better compression is possible, in [Lastras et al., arXiv 2023, revised 2024](https://arxiv.org/abs/2301.10414).
-        - Can transformer-like models learn with much less data?
-          - e.g. we have recently shown theory and experiments describing why certain kinds of sparsity (cf. Bengio's "consciousness prior") can yield faster learning, under review.
-
-
-        B. Research events, toward connecting the community.
-        Centaur AI organizes research events such as workshops for the exchange of research ideas and the building and strengthening of a community around neuro-symbolic AI/safe AI research.
-        - 3rd research event (Winter 2024): [AAAI 2024 Workshop on Neuro-Symbolic Learning and Reasoning in the era of Large Language Models (NucLeaR)](https://nuclear-workshop.github.io): 1.5 days, full room
-        - 2nd research event (Winter 2023): [IBM Neuro-Symbolic Workshop 2023](https://ibm.biz/nsworkshop2023): 5000+ registrations 
-        - 1st research event (Winter 2022): [IBM Neuro-Symbolic Workshop 2022](http://ibm.biz/ns-wkshp): 1500+ registrations
-
-        C. Open-source software, toward accelerating the community.
-        Centaur AI creates and contributes to open source implementations of neuro-symbolic/safe AI research ideas, to help accelerate research, and ultimately put working technology in the hands of practicing data scientists.
-
-      **2. Education**
-
-        A. Educational events and materials.
-        One of the main obstacles to the development of neuro-symbolic ideas is the inherent difficulty in spanning two very large and very different intellectual traditions - that of statistical AI or machine learning (ML), and that of symbolic AI or knowledge representation and reasoning (KRR).  We hope to help onboard new researchers into this pursuit by providing educational entry points for researchers from both sides, via events with short courses and panels.  We will also develop educational materials including presentations, courses, and books.
-        - 2nd education event (Summer 2023): [Neuro-Symbolic Summer School (NSSS) 2023](https://neurosymbolic.github.io/nsss2023): 3500+ registrations 
-        - 1st educational event (Summer 2022): [Neuro-Symbolic Summer School (NSSS) 2022](http://ibm.biz/nsss2022): 6000+ registrations
-
-        B. Guiding students.
-        To help students interested in this emerging area (and indirectly their advisors), we can provide guidance on open problems to tackle and the history of approaches in the literature, as well as bring students into existing collaborations or start new research projects and otherwise make professional connections.
-        - In Summer 2024, the Institute is hosting two research interns:
-          - Bowen Li, PhD student, Carnegie Mellon University Robotics Institute.  Project:  Neuro-symbolic task and motion planning.
-          - Jaiden Lee, undergraduate, Georgia Institute of Technology.  Project:  Augmenting LLMs for fact checking.
-
-        C. Advising organizations.
-        To accelerate the development of the neuro-symbolic AI ecosystem, we advise organizations of all kinds on how to utilize neuro-symbolic AI technologies, including non-profits, government agencies, startups, venture capital and private equity firms, and large enterprises.  Similar to a university, we anticipate in the future helping to incubate startups based on neuro-symbolic technology."
   who:
     title: "Who is Centaur AI?"
     #text: "who"
     section: who
-    body: |
-      Centaur AI has its own staff, a large network of close collaborators in academia (including Stanford, Carnegie Mellon University, Harvard, Yale, Purdue, Univ Sao Paulo, etc) and elsewhere who can be funded by Centaur, and many collaborators with jobs at commercial entities who work on a volunteer basis.
+    body: "bbb"
 
   where:
     title: "Where is Centaur AI?"
     #text: "where"
     section: where
-    body: |
-      Centaur AI is headquartered in California but operates via remote collaboration internationally.  Centaur's events are generally held virtually, with the exception of those that may be held as part of existing conferences such as workshops at AAAI and NeSy.
+    body: "ccc"
 
   how:
     title: "How can one participate or interact with Centaur AI?"
     #text: "how"
     section: how
-    body: |
-      - Research:  New collaborators (researchers in academia or industry or government, graduate and undergraduate students, data scientists, engineers) are always welcome!  In the upcoming NSSS 2024 event, we will have an interactive session to discuss new projects.
-      - Education:  For those seeking to learn more about neuro-symbolic AI including a crash course on basic concepts and a curated set of the most recent developments, see our resources above.
-      - Commercial:  For ambitious startups and larger enterprises seeking to take advantage of the powerful technologies emerging from this next wave of AI, we have the industrial experience to help you learn more and assess whether your problem can be well addressed, and even help you execute a proof-of-concept project through to a deployed system.
-
-      For any of these, contact Alexander Gray (alexander.gray *"AT"* centaurinstitute.org).
+    body: "dddd"
 
 
   
