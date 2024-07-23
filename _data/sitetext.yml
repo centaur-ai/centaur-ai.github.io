@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     section: why
 
   what:
-    title: "What is Centaur AIB?"
+    title: "What is Centaur AI?"
     #text: "what"
     section: what
     body: |
@@ -93,7 +93,8 @@ en: &DEFAULT_EN
     title: "Who is Centaur AI?"
     #text: "who"
     section: who
-    body: "bbb"
+    body: |
+      Centaur AI has its own staff, a large network of close collaborators in academia (including Stanford, Carnegie Mellon University, Harvard, Yale, Purdue, Univ Sao Paulo, etc) and elsewhere who can be funded by Centaur, and many collaborators with jobs at commercial entities who work on a volunteer basis.
 
   where:
     title: "Where is Centaur AI?"
