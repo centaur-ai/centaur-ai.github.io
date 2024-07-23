@@ -24,7 +24,7 @@ en: &DEFAULT_EN
 
   what:
     title: "What is Centaur AI?"
-    #text: "try try"
+    #text: "what"
     section: what
     body: |
       The Institute is a 501(c)(3) whose main focus is on illuminating the technical path to safe AI through fundamental research and advancing its adoption through education throughout the AI ecosystem.  Specific activities include:
