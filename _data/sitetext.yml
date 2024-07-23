@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 
-    text: Centaur AI Institute
+    title: The Centaur Artificial Intelligence Institute
+    text: Toward Safer and Smarter AI
     #button: Tell Me More
     #buttonlink: "#services"
 
   why:
     title: "Why is Centaur AI?"
-    #text: "try try"
+    #text: "why"
     body: "The Centaur AI Institute was established to achieve safe AI, with the hypothesis that an emerging set of **neuro-symbolic** ideas which incorporate both learning and knowledge/reasoning can provide the path.  An upshot of these ideas is that new human-AI systems (**centaur AI** or human-in-the-loop systems) can be built where humans provide and interact with symbolic knowledge and are essential to AI rather than dispensible.  The questions are both important enough and difficult enough to necessitate the formation of a new entity primarily motivated by the public good rather than profits, and insulated from the short-term motivations, timelines, and instabilities of even the largest industrial labs.  As almost all other non-profit organizations addressing safe AI appear to be policy-focused rather than technically oriented, and almost all organizations addressing safe AI technically appear to be for-profit and focused on current mainstream technologies, we seek to fill the void rather than pursue either of those avenues."
     section: why
 
@@ -31,7 +31,7 @@ en: &DEFAULT_EN
       
       **1. Research**
         
-        a. Attacking open problems, toward safer and smarter AI.
+        A. Attacking open problems, toward safer and smarter AI.
         Centaur AI conducts research projects ultimately aimed at what it regards as the most pressing open problems of AI, with a particular emphasis on developing a family of techniques which can, among other things, achieve:
         
         - Human Auditability and Controllability (HAC):  By virtue of a human readable representation, the ability for humans to debug, improve, and control models by providing domain and world knowledge and ethical or other behavioral constraints
@@ -43,26 +43,47 @@ en: &DEFAULT_EN
         - Implicit bias in training sets which are too large to be fully vettable
         - Massive costs creating an effective oligopoly in AI systems
 
-        b. Research events, toward connecting the community.
+        Centaur AI research threads consider both long-term conceptual foundations needed to enable such systems as well as development of cutting-edge new systems for standard AI tasks such as classification (e.g. as is common in data science), sequence-to-sequence transduction (e.g. as is done by LLMs), and sequential decision making (e.g. as is done by robots).  Current questions being investigated include:
+
+        1. Could neural network-like models understand?  (as opposed to mimic sequences of text)
+        a. Could such models reason?  (reliably, deductively as well as probabilistically)
+        - e.g. we showed recently how to analyze a broad class of reasoning systems, including forms underlying neural networks, in [Fagin et al., Proceedings of the National Academy of Sciences, 2024](https://www.pnas.org/doi/10.1073/pnas.2309905121)
+        b. Could such models represent abstract knowledge?  (e.g. grammars/programs, or a world model)
+        - e.g. we showed recently how to measure the compositionality (a key property for representing general knowledge) of any model, including neural networks, in []
+
+        2. Could neural network-like models ever be general?  (in the sense of AGI or Artificial General Intelligence)
+        a. Could such models generalize far from training data?  (i.e. not just mimic solutions they have already seen)
+        - e.g. we showed how a sequence-to-sequence approach that can utilize knowledge can generalize out-of-sample dramatically better, in []
+        b. Could such models infer causes?  (especially in ways that go beyond the limitations of current causal models)
+        - e.g. we began exploring how certain probabilistic semantics can allow modeling of causality in more realistic partially identified and cyclic cases, in []
+
+        3. Could neural network-like models be much more efficient?
+        a. Could learning fundamentally be done with orders of magnitude less data?  
+        - e.g. we have developed the first quantitative information theory incorporating logical semantics, showing dramatically better compression is possible, in []
+        b. Can transformer-like models learn with much less data?
+        - e.g. we have recently shown theory and experiments describing why certain kinds of sparsity (cf. Bengio's "consciousness prior") can yield faster learning, in []
+
+
+        B. Research events, toward connecting the community.
         Centaur AI organizes research events such as workshops for the exchange of research ideas and the building and strengthening of a community around neuro-symbolic AI/safe AI research.
-        - 3rd research event (Winter 2024):  [AAAI 2024 Workshop on Neuro-Symbolic Learning and Reasoning in the era of Large Language Models (NucLeaR)](https://nuclear-workshop.github.io): 1.5 days, full room
-        - 2nd education event (Summer 2023): [Neuro-Symbolic Summer School (NSSS) 2023](https://neurosymbolic.github.io/nsss2023): 3500+ registrations 
+        - 3rd research event (Winter 2024): [AAAI 2024 Workshop on Neuro-Symbolic Learning and Reasoning in the era of Large Language Models (NucLeaR)](https://nuclear-workshop.github.io): 1.5 days, full room
         - 2nd research event (Winter 2023): [IBM Neuro-Symbolic Workshop 2023](https://ibm.biz/nsworkshop2023): 5000+ registrations 
-        - 1st educational event (Summer 2022): [Neuro-Symbolic Summer School (NSSS) 2022](http://ibm.biz/nsss2022): 6000+ registrations
         - 1st research event (Winter 2022): [IBM Neuro-Symbolic Workshop 2022](http://ibm.biz/ns-wkshp): 1500+ registrations
 
-        c. Open-source software, toward accelerating the community.
+        C. Open-source software, toward accelerating the community.
         Centaur AI creates and contributes to open source implementations of neuro-symbolic/safe AI research ideas, to help accelerate research, and ultimately put working technology in the hands of practicing data scientists.
 
       **2. Education**
 
-        a. Educational events and materials.
+        A. Educational events and materials.
         One of the main obstacles to the development of neuro-symbolic ideas is the inherent difficulty in spanning two very large and very different intellectual traditions - that of statistical AI or machine learning (ML), and that of symbolic AI or knowledge representation and reasoning (KRR).  We hope to help onboard new researchers into this pursuit by providing educational entry points for researchers from both sides, via events with short courses and panels.  We will also develop educational materials including presentations, courses, and books.
+        - 2nd education event (Summer 2023): [Neuro-Symbolic Summer School (NSSS) 2023](https://neurosymbolic.github.io/nsss2023): 3500+ registrations 
+        - 1st educational event (Summer 2022): [Neuro-Symbolic Summer School (NSSS) 2022](http://ibm.biz/nsss2022): 6000+ registrations
 
-        b. Guiding students.
+        B. Guiding students.
         To help students interested in this emerging area (and indirectly their advisors), we can provide guidance on open problems to tackle and the history of approaches in the literature, as well as bring students into existing collaborations or start new research projects and otherwise make professional connections.
 
-        c. Advising organizations.
+        C. Advising organizations.
         To accelerate the development of the neuro-symbolic AI ecosystem, we advise organizations of all kinds on how to utilize neuro-symbolic AI technologies, including non-profits, government agencies, startups, venture capital and private equity firms, and large enterprises.  Similar to a university, we anticipate in the future helping to incubate startups based on neuro-symbolic technology. 
 
   who:
