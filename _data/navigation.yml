@@ -17,10 +17,10 @@ en: &DEFAULT_EN
       section: what
     - title: "Who"
       section: who
-    - title: "How"
-      section: how
     - title: "Where"
       section: where
+    - title: "How"
+      section: how
 #    - title: "Services"
 #      section: services
 #    - title: "Portfolio"
