@@ -51,7 +51,7 @@ en: &DEFAULT_EN
           - e.g. we showed recently how to analyze a broad class of reasoning systems, including forms underlying neural networks, in [Fagin et al., Proceedings of the National Academy of Sciences, 2024](https://www.pnas.org/doi/10.1073/pnas.2309905121)
         
           b. Could such models represent abstract knowledge?  (e.g. grammars/programs, or a world model)
-          - e.g. we showed recently how to measure the compositionality (a key property for representing general knowledge) of any model, including neural networks, in []
+          - e.g. we showed recently how to measure the compositionality (a key property for representing general knowledge) of any model, including neural networks, in [Ram et al., International Joint Conference on Artificial Intelligence, 2024](https://arxiv.org/abs/2405.02350)
 
         2. Could neural network-like models ever be general?  (in the sense of AGI or Artificial General Intelligence)
         
