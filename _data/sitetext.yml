@@ -87,8 +87,7 @@ en: &DEFAULT_EN
           - Jaiden Lee, undergraduate, Georgia Institute of Technology.  Project:  Augmenting LLMs for fact checking.
 
         C. Advising organizations.
-        To accelerate the development of the neuro-symbolic AI ecosystem, we advise organizations of all kinds on how to utilize neuro-symbolic AI technologies, including non-profits, government agencies, startups, venture capital and private equity firms, and large enterprises.  Similar to a university, we anticipate in the future helping to incubate startups based on neuro-symbolic technology. 
-
+        To accelerate the development of the neuro-symbolic AI ecosystem, we advise organizations of all kinds on how to utilize neuro-symbolic AI technologies, including non-profits, government agencies, startups, venture capital and private equity firms, and large enterprises.  Similar to a university, we anticipate in the future helping to incubate startups based on neuro-symbolic technology."
   who:
     title: "Who is Centaur AI?"
     #text: "who"
@@ -108,11 +107,11 @@ en: &DEFAULT_EN
     #text: "how"
     section: how
     body: |
-    - Research:  New collaborators (researchers in academia or industry or government, graudate and undergraduate students, data scientists, engineers) are always welcome!  In the upcoming NSSS 2024 event, we will have an interactive session to discuss new projects.
-    - Education:  For those seeking to learn more about neuro-symbolic AI including a crash course on basic concepts and a curated set of the most recent developments, see our resources above.
-    - Commercial:  For ambitious startups and larger enterprises seeking to take advantage of the powerful technologies emerging from this next wave of AI, we have the industrial experience to help you learn more and assess whether your problem can be well addressed, and even help you execute a proof-of-concept project through to a deployed system.
+      - Research:  New collaborators (researchers in academia or industry or government, graduate and undergraduate students, data scientists, engineers) are always welcome!  In the upcoming NSSS 2024 event, we will have an interactive session to discuss new projects.
+      - Education:  For those seeking to learn more about neuro-symbolic AI including a crash course on basic concepts and a curated set of the most recent developments, see our resources above.
+      - Commercial:  For ambitious startups and larger enterprises seeking to take advantage of the powerful technologies emerging from this next wave of AI, we have the industrial experience to help you learn more and assess whether your problem can be well addressed, and even help you execute a proof-of-concept project through to a deployed system.
 
-For any of these, contact Alexander Gray (alexander.gray "AT" centaurinstitute.org).
+      For any of these, contact Alexander Gray (alexander.gray "AT" centaurinstitute.org).
 
 
   
