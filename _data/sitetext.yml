@@ -37,6 +37,7 @@ en: &DEFAULT_EN
         - Human Auditability and Controllability (HAC):  By virtue of a human readable representation, the ability for humans to debug, improve, and control models by providing domain and world knowledge and ethical or other behavioral constraints
         - Learning With Less (LWL):  By incorporating high-level knowledge as well as raw data, the ability to learn with (much) less raw data, power, and cost
         - Out-Of-Distribution (OOD) generalization:  By incorporating rigorous reasoning, the ability to extrapolate to new situations (very) far from what was seen in training data
+        
         These properties can all be consider key aspects of safe AI, as well as of AI that can generally perform better.  Examples of current practical open problems that can be addressed by this work:
         - Non-factuality in current generative AI systems
         - Implicit bias in training sets which are too large to be fully vettable
@@ -44,6 +45,11 @@ en: &DEFAULT_EN
 
         b. Research events, toward connecting the community.
         Centaur AI organizes research events such as workshops for the exchange of research ideas and the building and strengthening of a community around neuro-symbolic AI/safe AI research.
+        - 3rd research event (Winter 2024):  [AAAI 2024 Workshop on Neuro-Symbolic Learning and Reasoning in the era of Large Language Models (NucLeaR)](https://nuclear-workshop.github.io): 1.5 days, full room
+        - 2nd education event (Summer 2023): [Neuro-Symbolic Summer School (NSSS) 2023](https://neurosymbolic.github.io/nsss2023): 3500+ registrations 
+        - 2nd research event (Winter 2023): [IBM Neuro-Symbolic Workshop 2023](https://ibm.biz/nsworkshop2023): 5000+ registrations 
+        - 1st educational event (Summer 2022): [Neuro-Symbolic Summer School (NSSS) 2022](http://ibm.biz/nsss2022): 6000+ registrations
+        - 1st research event (Winter 2022): [IBM Neuro-Symbolic Workshop 2022](http://ibm.biz/ns-wkshp): 1500+ registrations
 
         c. Open-source software, toward accelerating the community.
         Centaur AI creates and contributes to open source implementations of neuro-symbolic/safe AI research ideas, to help accelerate research, and ultimately put working technology in the hands of practicing data scientists.
