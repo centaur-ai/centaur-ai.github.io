@@ -47,27 +47,27 @@ en: &DEFAULT_EN
 
         1. Could neural network-like models understand?  (as opposed to mimic sequences of text)
         
-        a. Could such models reason?  (reliably, deductively as well as probabilistically)
-        - e.g. we showed recently how to analyze a broad class of reasoning systems, including forms underlying neural networks, in [Fagin et al., Proceedings of the National Academy of Sciences, 2024](https://www.pnas.org/doi/10.1073/pnas.2309905121)
+          a. Could such models reason?  (reliably, deductively as well as probabilistically)
+          - e.g. we showed recently how to analyze a broad class of reasoning systems, including forms underlying neural networks, in [Fagin et al., Proceedings of the National Academy of Sciences, 2024](https://www.pnas.org/doi/10.1073/pnas.2309905121)
         
-        b. Could such models represent abstract knowledge?  (e.g. grammars/programs, or a world model)
-        - e.g. we showed recently how to measure the compositionality (a key property for representing general knowledge) of any model, including neural networks, in []
+          b. Could such models represent abstract knowledge?  (e.g. grammars/programs, or a world model)
+          - e.g. we showed recently how to measure the compositionality (a key property for representing general knowledge) of any model, including neural networks, in []
 
         2. Could neural network-like models ever be general?  (in the sense of AGI or Artificial General Intelligence)
         
-        a. Could such models generalize far from training data?  (i.e. not just mimic solutions they have already seen)
-        - e.g. we showed how a sequence-to-sequence approach that can utilize knowledge can generalize out-of-sample dramatically better, in []
+          a. Could such models generalize far from training data?  (i.e. not just mimic solutions they have already seen)
+          - e.g. we showed how a sequence-to-sequence approach that can utilize knowledge can generalize out-of-sample dramatically better, in []
         
-        b. Could such models infer causes?  (especially in ways that go beyond the limitations of current causal models)
-        - e.g. we began exploring how certain probabilistic semantics can allow modeling of causality in more realistic partially identified and cyclic cases, in []
+          b. Could such models infer causes?  (especially in ways that go beyond the limitations of current causal models)
+          - e.g. we began exploring how certain probabilistic semantics can allow modeling of causality in more realistic partially identified and cyclic cases, in []
 
         3. Could neural network-like models be much more efficient?
         
-        a. Could learning fundamentally be done with orders of magnitude less data?  
-        - e.g. we have developed the first quantitative information theory incorporating logical semantics, showing dramatically better compression is possible, in []
+          a. Could learning fundamentally be done with orders of magnitude less data?  
+          - e.g. we have developed the first quantitative information theory incorporating logical semantics, showing dramatically better compression is possible, in []
         
-        b. Can transformer-like models learn with much less data?
-        - e.g. we have recently shown theory and experiments describing why certain kinds of sparsity (cf. Bengio's "consciousness prior") can yield faster learning, in []
+          b. Can transformer-like models learn with much less data?
+          - e.g. we have recently shown theory and experiments describing why certain kinds of sparsity (cf. Bengio's "consciousness prior") can yield faster learning, in []
 
 
         B. Research events, toward connecting the community.
