@@ -96,7 +96,11 @@ en: &DEFAULT_EN
     #text: "who"
     section: who
     body: |
-      Centaur AI has its own staff, a large network of close collaborators in academia (including Stanford, Carnegie Mellon University, Harvard, Yale, Purdue, Univ Sao Paulo, etc) and elsewhere who can be funded by Centaur, and many collaborators with jobs at commercial entities who work on a volunteer basis.
+      Centaur AI has its own staff, a large network of close collaborators in academia (including Stanford, Carnegie Mellon University, Harvard, Yale, Purdue, Univ Sao Paulo, etc) and elsewhere who can be funded by Centaur, and many collaborators with jobs at commercial entities who work on a volunteer basis.  Centaur AI forms project teams spanning experts in:
+      - KRR:  Logical reasoning, knowledge representation, planning, probabilistic graphical models, causality
+      - ML:  Deep learning, broader machine learning, reinforcement learning, statistics, data science
+      - Computation:  Algorithms, optimization, 10x programming
+      - Beyond:  Information theory, linguistics, semantics, neuroscience
 
   where:
     title: "Where is Centaur AI?"
