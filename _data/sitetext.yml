@@ -27,21 +27,21 @@ en: &DEFAULT_EN
     #text: "what"
     section: what
     body: |
-      The Institute is a 501(c)(3) whose main focus is on illuminating the technical path to safe AI through fundamental research and advancing its adoption through education throughout the AI ecosystem.  Specific activities include:
+      The Institute is a 501(c)(3) whose main focus is on illuminating the technical path to safe AI through fundamental research and advancing its adoption through education throughout the AI ecosystem.  The Centaur AI Institute is funded through government research grants/contracts (e.g. NSF, DARPA, etc) and charitable donations by individuals, foundations or other organizations interested in helping to advance safe/reliable/neuro-symbolic AI.  In particular the Institute can coordinate complex, multidisciplinary efforts which are otherwise difficult to put together and maintain on a long term basis.  Specific activities include:
       
       **1. Research**
         
         A. Attacking open problems, toward safer and smarter AI.
         Centaur AI conducts research projects ultimately aimed at what it regards as the most pressing open problems of AI, with a particular emphasis on developing a family of techniques which can, among other things, achieve:
         
-        - Human Auditability and Controllability (HAC):  By virtue of a human readable representation, the ability for humans to debug, improve, and control models by providing domain and world knowledge and ethical or other behavioral constraints
-        - Learning With Less (LWL):  By incorporating high-level knowledge as well as raw data, the ability to learn with (much) less raw data, power, and cost
-        - Out-Of-Distribution (OOD) generalization:  By incorporating rigorous reasoning, the ability to extrapolate to new situations (very) far from what was seen in training data
+        - Human Auditability and Controllability (HAC):  By virtue of a human readable representation, the ability for humans to debug, improve, and control models by providing domain and world knowledge and ethical or other behavioral constraints.
+        - Learning With Less (LWL):  By incorporating high-level knowledge as well as raw data, the ability to learn with (much) less raw data, power, and cost.
+        - Out-Of-Distribution (OOD) generalization:  By incorporating rigorous reasoning, the ability to extrapolate to new situations (very) far from what was seen in training data.
         
         These properties can all be consider key aspects of safe AI, as well as of AI that can generally perform better.  Examples of current practical open problems that can be addressed by this work:
-        - Non-factuality in current generative AI systems
-        - Implicit bias in training sets which are too large to be fully vettable
-        - Massive costs creating an effective oligopoly in AI systems
+        - Non-factuality in current generative AI systems.
+        - Implicit bias in training sets which are too large to be fully vettable.
+        - Massive costs creating an effective oligopoly in AI systems.
 
         Centaur AI research threads consider both long-term conceptual foundations needed to enable such systems as well as development of cutting-edge new systems for standard AI tasks such as classification (e.g. as is common in data science), sequence-to-sequence transduction (e.g. as is done by LLMs), and sequential decision making (e.g. as is done by robots).  Current questions being investigated include:
 
@@ -76,12 +76,13 @@ en: &DEFAULT_EN
       **2. Education**
 
         A. Educational events and materials.
-        One of the main obstacles to the development of neuro-symbolic ideas is the inherent difficulty in spanning two very large and very different intellectual traditions - that of statistical AI or machine learning (ML), and that of symbolic AI or knowledge representation and reasoning (KRR).  We hope to help onboard new researchers into this pursuit by providing educational entry points for researchers from both sides, via events with short courses and panels.  We will also develop educational materials including presentations, courses, and books.
+        One of the main obstacles to the development of neuro-symbolic ideas is the inherent difficulty in spanning two very large and very different intellectual traditions - that of statistical AI or machine learning (ML), and that of symbolic AI or knowledge representation and reasoning (KRR) -- most researchers are trained in one side but not the other.  We hope to help onboard new researchers into this pursuit by providing educational entry points for researchers from both sides, via events with short courses and panels.  We will also develop educational materials including presentations, courses, and books.
         - 2nd education event (Summer 2023): [Neuro-Symbolic Summer School (NSSS) 2023](https://neurosymbolic.github.io/nsss2023): 3500+ registrations 
         - 1st educational event (Summer 2022): [Neuro-Symbolic Summer School (NSSS) 2022](http://ibm.biz/nsss2022): 6000+ registrations
 
         B. Guiding students.
         To help students interested in this emerging area (and indirectly their advisors), we can provide guidance on open problems to tackle and the history of approaches in the literature, as well as bring students into existing collaborations or start new research projects and otherwise make professional connections.
+        - Students are particularly welcome to reach out for guidance and advice, which may range from formal (e.g. internships, PhD committee service) to informal and year-round
         - In Summer 2024, the Institute is hosting two research interns:
           - Bowen Li, PhD student, Carnegie Mellon University Robotics Institute.  Project:  Neuro-symbolic task and motion planning.
           - Jaiden Lee, undergraduate, Georgia Institute of Technology.  Project:  Augmenting LLMs for fact checking.
