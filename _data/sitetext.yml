@@ -16,11 +16,19 @@ en: &DEFAULT_EN
     #button: Tell Me More
     #buttonlink: "#services"
 
+  news:
+    title: "News"
+    #text: "news"
+    body: |
+      - Recent publication in [Proceedings of the National Academy of Sciences, 2024](https://www.pnas.org/doi/10.1073/pnas.2309905121) on Foundations of Reasoning with Uncertainty via Real-valued Logics.
+      - Upcoming 3rd Neuro-Symbolic AI Summer School (NSSS), Sep 4-6, 2024.  Our past events have attracted thousands of researchers, students, and data scientists.
+    section: news
+
   why:
     title: "Why is Centaur AI?"
     #text: "why"
     body: |
-      The Centaur AI Institute was established to achieve safe/reliable AI, with the hypothesis that an emerging set of "neuro-symbolic" ideas which incorporate both learning and knowledge/reasoning can provide the path toward resolving many if not most of the key issues preventing the use of AI in cannot-fail use cases such as in medicine, law, defense, transportation, financial systems, or conversational systems for performing transactions.  More broadly, these issues are also fundamentally at the root of achieving greater capability and generality in AI.  An upshot of these ideas is that new human-AI systems ("centaur AI" or human-in-the-loop systems) can be built where humans provide and interact with symbolic knowledge and are essential to AI rather than dispensible.  The questions are both important enough and difficult enough to necessitate the formation of a new entity primarily motivated by the public good rather than profits, and insulated from the short-term motivations, timelines, and instabilities of even the largest industrial labs.  As almost all other non-profit organizations addressing safe AI appear to be policy-focused rather than technically oriented, and almost all organizations addressing safe AI technically appear to be for-profit and focused on current mainstream technologies, we seek to fill the void rather than pursue either of those avenues."
+      The Centaur AI Institute was established to achieve safe/reliable AI, with the hypothesis that an emerging set of "neuro-symbolic" ideas which incorporate both learning and knowledge/reasoning can provide the path toward resolving many if not most of the key issues preventing the use of AI in cannot-fail use cases such as in medicine, law, defense, transportation, financial systems, or conversational systems for performing transactions.  More broadly, these issues are also fundamentally at the root of achieving greater capability and generality in AI.  An upshot of these ideas is that new human-AI systems ("centaur AI" or human-in-the-loop systems) can be built where humans provide and interact with symbolic knowledge and are essential to AI rather than dispensible.  The questions are both important enough and difficult enough to necessitate the formation of a new entity primarily motivated by the public good rather than profits, and insulated from the short-term motivations, timelines, and instabilities of even the largest industrial labs.  As almost all other non-profit organizations addressing safe AI appear to be policy-focused rather than technically oriented, and almost all organizations addressing safe AI technically appear to be for-profit and focused on current mainstream technologies, we seek to fill the void rather than pursue either of those avenues.
     section: why
 
   what:
@@ -48,7 +56,7 @@ en: &DEFAULT_EN
 
         1. Could neural network-like models understand?  (as opposed to mimic sequences of text)
         - Could such models reason?  (reliably, deductively as well as probabilistically)
-          - e.g. we showed recently how to analyze a broad class of reasoning systems, including forms underlying neural networks, in [Fagin et al., Proceedings of the National Academy of Sciences, 2024](https://www.pnas.org/doi/10.1073/pnas.2309905121).
+          - e.g. we showed recently how to analyze a broad class of reasoning systems, including forms underlying neural networks, in [Fagin et al., PNAS, 2024](https://www.pnas.org/doi/10.1073/pnas.2309905121).
         - Could such models represent abstract knowledge?  (e.g. grammars/programs, or a world model)
           - e.g. we showed recently how to measure the compositionality (a key property for representing general knowledge) of any model, including neural networks, in [Ram et al., International Joint Conference on Artificial Intelligence, 2024](https://arxiv.org/abs/2405.02350).
 
