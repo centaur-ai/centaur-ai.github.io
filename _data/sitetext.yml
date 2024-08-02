@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: The Centaur Artificial Intelligence Institute
+    title: Neuro-Symbolic AI
     text: Toward Safer and Smarter AI 
     #button: Tell Me More
     #buttonlink: "#services"
