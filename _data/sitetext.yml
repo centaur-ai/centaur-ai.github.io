@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: news
     body: |
       - Recent publication in [Proceedings of the National Academy of Sciences, 2024](https://www.pnas.org/doi/10.1073/pnas.2309905121) on Foundations of Reasoning with Uncertainty via Real-valued Logics.  Shows a new general way to analyze reasoning systems, including many modern neuro-symbolic approaches.
-      - Recent [3rd Neuro-Symbolic AI Summer School (NSSS '24)]{https://neurosymbolic.github.io/nsss2024}, Sep 4-6, 2024.  Featured a curation of star speakers and participation by thousands of researchers, students, and data scientists.  Register to access the videos (to be made available shortly).
+      - Recent [3rd Neuro-Symbolic AI Summer School (NSSS '24)](https://neurosymbolic.github.io/nsss2024), Sep 4-6, 2024.  Featured a curation of star speakers and participation by thousands of researchers, students, and data scientists.  Register to access the videos (to be made available shortly).
 
   why:
     title: "Why Centaur AI?"
