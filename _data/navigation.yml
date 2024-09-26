@@ -11,6 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
+    - title: "News"
+      section: news
     - title: "Why"
       section: why
     - title: "What"
@@ -21,8 +23,6 @@ en: &DEFAULT_EN
       section: where
     - title: "How"
       section: how
-    - title: "News"
-      section: news
 #    - title: "Services"
 #      section: services
 #    - title: "Portfolio"
