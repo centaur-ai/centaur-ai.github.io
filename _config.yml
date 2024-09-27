@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 logo:
   path: /assets/img/centaur_logo.png
-  height: 100
+  height: 250
 
 title      : Centaur AI Institute
 #email      : your-email@example.com #this is also the email contact forms will go to
