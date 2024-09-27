@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     #text: "news"
     section: news
     body: |
-      - Recent publication in [Proceedings of the National Academy of Sciences, 2024](https://www.pnas.org/doi/10.1073/pnas.2309905121) on Foundations of Reasoning with Uncertainty via Real-valued Logics.  Shows a new general way to analyze reasoning systems, including many modern neuro-symbolic approaches.
+      - Recent publication in [Proceedings of the National Academy of Sciences, 2024](https://www.pnas.org/doi/10.1073/pnas.2309905121) on Foundations of Reasoning with Uncertainty via Real-valued Logics.  Shows a new general way to analyze a large class of reasoning systems, including many modern neuro-symbolic approaches.
       - Recent [3rd Neuro-Symbolic AI Summer School (NSSS '24)](https://neurosymbolic.github.io/nsss2024), Sep 4-6, 2024.  Featured a curation of star speakers and participation by thousands of researchers, students, and data scientists.  Register to access the videos (to be made available shortly).
 
   why:
@@ -122,11 +122,53 @@ en: &DEFAULT_EN
     #text: "how"
     section: how
     body: |
-      - Research:  New collaborators (researchers in academia or industry or government, graduate and undergraduate students, data scientists, engineers) are always welcome!  In the upcoming NSSS 2024 event, we will have an interactive session to discuss new projects.
-      - Education:  For those seeking to learn more about neuro-symbolic AI including a crash course on basic concepts and a curated set of the most recent developments, see our resources above.
-      - Commercial:  For ambitious startups and larger enterprises seeking to take advantage of the powerful technologies emerging from this next wave of AI, we have the industrial experience to help you learn more and assess whether your problem can be well addressed, and even help you execute a proof-of-concept project through to a deployed system.
-      - Your help:  For those who want to help the cause - bringing to life a new, better form of AI for humanity - your financial support or volunteer will be greatly appreciated and recognized!
+      **Education**
 
+      For those seeking to learn more about neuro-symbolic AI including a crash course on basic concepts and a curated set of the most recent developments, see our resources above.
+
+      **Research**  
+      
+      New collaborators (researchers in academia or industry or government, graduate and undergraduate students, data scientists, engineers) are always welcome!  All research by the Institute is collaborative and open, i.e. it works toward publications and open source software, aimed to advance the AI research community at large (only work performed in the Centaur AI Corporation subsidiary may be proprietary and any such work will be clearly identified as such and performed under appropriate contract).  
+      
+      Research is currently organized according to the following working groups:
+      - Semantic parsing and generation (neuro-symbolic NLP for precision understanding of text and generative AI without hallucinations)
+      - Grammar learning and parsing (better algorithms for compositional generalization, inductive logic programming, and abstraction)
+      - Theory and practice of reasoning (new foundations for correct and efficient reasoning)
+      - Probabilistic and causal semantics (more powerful semantics including handling ignorance and causality with cycles and partial identification)
+      - Sequential decision making (greater efficiency and safety via neuro-symbolic reinforcement learning, planning, and robotics)
+      - Biomedical applications (greater accuracy and safety in diagnosis, clinical trials, and community health)
+      
+      Projects:
+      - Qualifications needed:  We have projects for preparedness levels as early as highly talented undergraduate STEM students, as long as you can program well.  (We also have pure mathematical projects, but these are at the graduate level only.)  Otherwise, just bring your best productivity and willingness to learn fast by doing, and the team will be happy to help you advance.
+      - Commitment needed:  The absolute minimum is one full day (8-12 hours) every week reliably, in order for the team to be able to depend on your contribution and invest members' valuable time in you.  The rewards you will get out will be proportional to the work you put in.
+      - Availability of paid positions:  Most work in the Institute is voluntary.  The main reward is the ability to work with and co-publish with strong researchers on meaningful AI problems, and get experience for your CV or a letter of reference if desired.   Paid internships and part-time/full-time positions are generally by invitation as funds become available.
+
+      **Operational and educational team**
+
+      For those who want to help the Institute execute its mission and bring ideas for how to do it better, we welcome new members to the Operations team, which plans and creates our:
+      - Events and education program (being expanded)
+      - Discussion forums
+      - Outreach
+      - Grant proposals
+      - Seminar series, online resources, sponsorship program (being developed)
+
+      **How we work**
+
+      For some insight about our culture/style, here are is an incomplete list of some aspects:
+      - "One team":  We cannot achieve great things without full collaboration and mutual trust.  This includes generosity in terms of help and acknowledgement of others.
+      - Ethics:  For example, (unlike some other organizations) we are clear about non-profit vs for-profit pursuits and carefully segregate them into different organizations;  proper crediting and meritocratic operation is essential.
+      - Debate:  We are trying to solve difficult problems, and cannot do so without ego-free debate, which we can do by trusting our teammates.
+
+      **Commercial**
+      
+      For ambitious startups and larger enterprises seeking to take advantage of the powerful technologies emerging from this next wave of AI, we have the industrial experience to help you learn more and assess whether your problem can be well addressed, and even help you execute a proof-of-concept project through to a deployed system.
+      
+      **Donations**
+      
+      For those who want to help the cause - bringing to life a new, better form of AI for humanity - your financial support will be greatly appreciated and recognized!
+
+      **Contact**
+      
       For any of these, contact Alexander Gray (alexander.gray *"AT"* centaurinstitute.org).
 
 #  services:
