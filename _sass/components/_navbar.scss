@@ -5,8 +5,8 @@
     font-size: 12px;
     right: 0;
     padding: 13px;
-    text-transform: lowercase;
-    color: white;
+    text-transform: uppercase;
+    color: rgb(35, 21, 226);
     border: 0;
     background-color: $primary;
     @include heading-font;
@@ -29,7 +29,7 @@
         font-weight: 400;
         padding: 0.75em 0;
         letter-spacing: 1px;
-        color:white;
+        color:rgb(160, 32, 32);
         @include heading-font;
         &.active,
         &:hover {
